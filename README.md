@@ -1,0 +1,2 @@
+# Aplikasi stok laptop
+
