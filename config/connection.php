@@ -2,7 +2,7 @@
 
 $hostname = "localhost";
 $username = "root";
-$password = "afriyan";
+$password = "";
 $dbname = "db_laptop";
 $port = 3306;
 
